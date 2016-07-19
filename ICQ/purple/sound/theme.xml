@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<theme author="Gethyn" 
+	name="ICQ" 
+	image="icon.png"
+	type="sound">
+
+	<description>Taken from version 99a</description>
+	<event name="chat_msg_recv" file="im_recv.wav"/>
+	<event name="first_im_recv" file="first_im_recv.wav"/>
+	<event name="got_attention" file="got_attention.wav"/>
+	<event name="im_recv" file="im_recv.wav"/>
+	<event name="join_chat" file="join_chat.wav"/>
+	<event name="left_chat" file="left_chat.wav"/>
+	<event name="login" file="login.wav"/>
+	<event name="logout" file="logout.wav"/>
+	<event name="nick_said" file="nick_said.wav"/>
+	<event name="pounce_default" file="pounce_default.wav"/>
+	<event name="send_chat_msg" file="send_im.wav"/>
+	<event name="send_im" file="send_im.wav"/>
+</theme>

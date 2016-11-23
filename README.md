@@ -6,9 +6,10 @@ Nostalgic sound themes for Pidgin users.
 About
 -----
 
-These are two simple sound themes for Pidgin. As the name suggests, the 
-sounds are taken from said programs and are attempted to be used  
-appropriately.
+These are two simple sound themes for Pidgin. 
+
+As the name suggests, the sounds are taken from said programs and are 
+attempted to be used appropriately.
 
 Installation
 ------------
